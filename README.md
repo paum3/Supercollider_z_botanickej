@@ -2,13 +2,14 @@
 
 materiál k videotutoriálom
 
-[SuperCollider](https://supercollider.github.io/)
-[scsynth forum](https://scsynth.org/)
-[sccode] (http://sccode.org/)
+Hlavna stranka projektu [SuperCollider](https://supercollider.github.io/)
+
+[Scsynth](https://scsynth.org/) forum
+
+[sccode](http://sccode.org/)
 
 
-
-[Videotutorialy Eliho Fieldsteela](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC)
+[Videotutorialy](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) Eliho Fieldsteela
 
 
 Databaza zdrojov o SC
