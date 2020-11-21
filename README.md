@@ -1,6 +1,15 @@
-# Supercollider_z_botanickej
+# SuperCollider z_Botanickej
 
-Materiál k videotutoriálom,
+Materiál k videotutoriálom
+
+[#0 INTRO](https://www.youtube.com/watch?v=xlmqBcW13mc)
+[#1 SCLANG]
+[#2 SCSYNTH]
+[#3 MIDI]
+[#4 OSC]
+[#5 ARDUINO]
+
+Linky na ďalšie diely budú postupne pribúdať ako sa budú zverejňovať na youtubovom kanály [A4 TV](https://www.youtube.com/channel/UCUUvnalhlLI_mcpzDYfJa_w)
 
 
 
