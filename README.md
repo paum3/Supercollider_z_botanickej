@@ -1,6 +1,8 @@
 # Supercollider_z_botanickej
 
-materiál k videotutoriálom
+Materiál k videotutoriálom,
+
+
 
 Hlavna stranka projektu [SuperCollider](https://supercollider.github.io/). Tu si mozete precitat zakladne info, nainstalovat SC a pod.
 
@@ -14,4 +16,4 @@ Oficialne SC forum, kde sa daju najst odpovede na vela otazok, alebo opytat sa n
 
 
 Vyzivna databaza zdrojov o SC
-[awesome supercollider](https://github.com/madskjeldgaard/awesome-supercollider)
+[awesome supercollider](https://github.com/madskjeldgaard/awesome-supercollider).
